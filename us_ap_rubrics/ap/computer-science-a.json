@@ -1,7 +1,7 @@
 {
   "subject": "cs",
   "curriculum": "ap",
-  "stage": "a",
+  "stage": "ap",
   "name_zh": "AP 计算机科学 A",
   "name_en": "AP Computer Science A",
   "description": "Java-based OOP: Primitive Types, Using Objects, Boolean Expressions & if, Iteration, Writing Classes, Arrays, ArrayList, 2D Arrays, Inheritance, Recursion.",

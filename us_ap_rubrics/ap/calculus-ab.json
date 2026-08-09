@@ -1,7 +1,7 @@
 {
   "subject": "math",
   "curriculum": "ap",
-  "stage": "cab",
+  "stage": "ap",
   "name_zh": "AP 微积分 AB",
   "name_en": "AP Calculus AB",
   "description": "CED 8 units: Limits, Differentiation, Composite/Implicit/Inverse Derivatives, Contextual & Analytical Applications of Differentiation, Integration & Accumulation, Differential Equations, Applications of Integration.",

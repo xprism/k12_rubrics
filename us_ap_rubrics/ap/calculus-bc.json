@@ -1,7 +1,7 @@
 {
   "subject": "math",
   "curriculum": "ap",
-  "stage": "bc",
+  "stage": "ap",
   "name_zh": "AP 微积分 BC",
   "name_en": "AP Calculus BC",
   "description": "AB content + Parametric/Polar/Vector functions, Infinite Series (10 units).",

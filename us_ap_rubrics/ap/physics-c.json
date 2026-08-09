@@ -1,7 +1,7 @@
 {
   "subject": "physics",
   "curriculum": "ap",
-  "stage": "c",
+  "stage": "ap",
   "name_zh": "AP 物理 C",
   "name_en": "AP Physics C (Mechanics + E&M)",
   "description": "Calculus-based: Mechanics (Kinematics, Newton's Laws, Work/Energy, Systems of Particles, Rotation, Oscillations, Gravitation) + E&M (Electrostatics, Conductors, Circuits, Magnetic Fields, Electromagnetism).",
