@@ -1,5 +1,5 @@
 {
-  "catalog_digest": "sha256:4b84ce3bec2f6ddb7b933da874a7d1a8c63590dad73aa75c9b945f6825fffd9f",
+  "catalog_digest": "sha256:c0cdf46615f69ca8484080a18a230ce4679aafc0fc0b2aa44acd5f7d9e100f3f",
   "schema": "lingjing-okf-catalog.v2",
   "shared_sources": [
     {
@@ -534,352 +534,352 @@
       "entries": [
         {
           "doorplate_id": "elementary-how-we-express",
-          "doorplate_path": "us_ib-rubrics/elementary/how-we-express.md",
+          "doorplate_path": "us_ib_rubrics/elementary/how-we-express.md",
           "payload_digest": "sha256:33518fb9943769321bfed3ffdb30ed5559809745cb2664c721a73993bcd17000",
-          "resource": "us_ib-rubrics/elementary/how-we-express.json",
-          "spine_id": "us_ib-rubrics.elementary.how-we-express",
+          "resource": "us_ib_rubrics/elementary/how-we-express.json",
+          "spine_id": "us_ib_rubrics.elementary.how-we-express",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "elementary-how-we-organize",
-          "doorplate_path": "us_ib-rubrics/elementary/how-we-organize.md",
+          "doorplate_path": "us_ib_rubrics/elementary/how-we-organize.md",
           "payload_digest": "sha256:922be75f4675d216690d440878661d7bce91075d7335ca4374629325318e9a55",
-          "resource": "us_ib-rubrics/elementary/how-we-organize.json",
-          "spine_id": "us_ib-rubrics.elementary.how-we-organize",
+          "resource": "us_ib_rubrics/elementary/how-we-organize.json",
+          "spine_id": "us_ib_rubrics.elementary.how-we-organize",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "elementary-how-world-works",
-          "doorplate_path": "us_ib-rubrics/elementary/how-world-works.md",
+          "doorplate_path": "us_ib_rubrics/elementary/how-world-works.md",
           "payload_digest": "sha256:5725fe4235c39dceb55f828a25d575d9fcd26f6abb9aa793d0ba60e7e44f8653",
-          "resource": "us_ib-rubrics/elementary/how-world-works.json",
-          "spine_id": "us_ib-rubrics.elementary.how-world-works",
+          "resource": "us_ib_rubrics/elementary/how-world-works.json",
+          "spine_id": "us_ib_rubrics.elementary.how-world-works",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "elementary-sharing-planet",
-          "doorplate_path": "us_ib-rubrics/elementary/sharing-planet.md",
+          "doorplate_path": "us_ib_rubrics/elementary/sharing-planet.md",
           "payload_digest": "sha256:6a2711f34b0a2138fcdf5d54aa4b08bb5cb09ba5c6eea525e7b549a43c629df0",
-          "resource": "us_ib-rubrics/elementary/sharing-planet.json",
-          "spine_id": "us_ib-rubrics.elementary.sharing-planet",
+          "resource": "us_ib_rubrics/elementary/sharing-planet.json",
+          "spine_id": "us_ib_rubrics.elementary.sharing-planet",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "elementary-where-we-are",
-          "doorplate_path": "us_ib-rubrics/elementary/where-we-are.md",
+          "doorplate_path": "us_ib_rubrics/elementary/where-we-are.md",
           "payload_digest": "sha256:2bdb24d9db81805477495f5460e6a3c030e99b1af7b53eb621e6a28e3a92f7c3",
-          "resource": "us_ib-rubrics/elementary/where-we-are.json",
-          "spine_id": "us_ib-rubrics.elementary.where-we-are",
+          "resource": "us_ib_rubrics/elementary/where-we-are.json",
+          "spine_id": "us_ib_rubrics.elementary.where-we-are",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "elementary-who-we-are",
-          "doorplate_path": "us_ib-rubrics/elementary/who-we-are.md",
+          "doorplate_path": "us_ib_rubrics/elementary/who-we-are.md",
           "payload_digest": "sha256:ac3a0df153ba454e93901fd4c730e7d6090cc93a4b9f70018316e0c9f15b64b5",
-          "resource": "us_ib-rubrics/elementary/who-we-are.json",
-          "spine_id": "us_ib-rubrics.elementary.who-we-are",
+          "resource": "us_ib_rubrics/elementary/who-we-are.json",
+          "spine_id": "us_ib_rubrics.elementary.who-we-are",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-biology",
-          "doorplate_path": "us_ib-rubrics/high/biology.md",
+          "doorplate_path": "us_ib_rubrics/high/biology.md",
           "payload_digest": "sha256:a3c76255bfbe71166b957db08b85c6393a02f00b86ab8f6395a49ea4bd28878e",
-          "resource": "us_ib-rubrics/high/biology.json",
-          "spine_id": "us_ib-rubrics.high.biology",
+          "resource": "us_ib_rubrics/high/biology.json",
+          "spine_id": "us_ib_rubrics.high.biology",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-cas",
-          "doorplate_path": "us_ib-rubrics/high/cas.md",
+          "doorplate_path": "us_ib_rubrics/high/cas.md",
           "payload_digest": "sha256:550ab16f7c35649bc8fd342c5b6b760f37924b83e5d9565ff1452cdc3a4e821d",
-          "resource": "us_ib-rubrics/high/cas.json",
-          "spine_id": "us_ib-rubrics.high.cas",
+          "resource": "us_ib_rubrics/high/cas.json",
+          "spine_id": "us_ib_rubrics.high.cas",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-chemistry",
-          "doorplate_path": "us_ib-rubrics/high/chemistry.md",
+          "doorplate_path": "us_ib_rubrics/high/chemistry.md",
           "payload_digest": "sha256:91756e2cf3c0a9da32f3a82f9c5c36a204f21edcb8d6aa1bc6f805b255bf4ec3",
-          "resource": "us_ib-rubrics/high/chemistry.json",
-          "spine_id": "us_ib-rubrics.high.chemistry",
+          "resource": "us_ib_rubrics/high/chemistry.json",
+          "spine_id": "us_ib_rubrics.high.chemistry",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-economics",
-          "doorplate_path": "us_ib-rubrics/high/economics.md",
+          "doorplate_path": "us_ib_rubrics/high/economics.md",
           "payload_digest": "sha256:2d6272109e1a3168b5befb655cf6010cbd6776aff5241f62b72dd183c5c1cb1a",
-          "resource": "us_ib-rubrics/high/economics.json",
-          "spine_id": "us_ib-rubrics.high.economics",
+          "resource": "us_ib_rubrics/high/economics.json",
+          "spine_id": "us_ib_rubrics.high.economics",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-ee",
-          "doorplate_path": "us_ib-rubrics/high/ee.md",
+          "doorplate_path": "us_ib_rubrics/high/ee.md",
           "payload_digest": "sha256:43c00b05d77b041fcb35a7536f50838dc69d12b568ab12a06663029e60b5d9de",
-          "resource": "us_ib-rubrics/high/ee.json",
-          "spine_id": "us_ib-rubrics.high.ee",
+          "resource": "us_ib_rubrics/high/ee.json",
+          "spine_id": "us_ib_rubrics.high.ee",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-english-a",
-          "doorplate_path": "us_ib-rubrics/high/english-a.md",
+          "doorplate_path": "us_ib_rubrics/high/english-a.md",
           "payload_digest": "sha256:32250c2e12196e0c135607afee33a529d83afd12f01970dfe3c2c3e91fdc1b32",
-          "resource": "us_ib-rubrics/high/english-a.json",
-          "spine_id": "us_ib-rubrics.high.english-a",
+          "resource": "us_ib_rubrics/high/english-a.json",
+          "spine_id": "us_ib_rubrics.high.english-a",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-history",
-          "doorplate_path": "us_ib-rubrics/high/history.md",
+          "doorplate_path": "us_ib_rubrics/high/history.md",
           "payload_digest": "sha256:3c5e9e20018235676c04c465bc2289f8754d45a72ee991886b8072a2bdf49a25",
-          "resource": "us_ib-rubrics/high/history.json",
-          "spine_id": "us_ib-rubrics.high.history",
+          "resource": "us_ib_rubrics/high/history.json",
+          "spine_id": "us_ib_rubrics.high.history",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-math-aa",
-          "doorplate_path": "us_ib-rubrics/high/math-aa.md",
+          "doorplate_path": "us_ib_rubrics/high/math-aa.md",
           "payload_digest": "sha256:b555a77b2130bedd31482395f657b960c7312e9557eafe903a9286eafdcce8d3",
-          "resource": "us_ib-rubrics/high/math-aa.json",
-          "spine_id": "us_ib-rubrics.high.math-aa",
+          "resource": "us_ib_rubrics/high/math-aa.json",
+          "spine_id": "us_ib_rubrics.high.math-aa",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-math-ai",
-          "doorplate_path": "us_ib-rubrics/high/math-ai.md",
+          "doorplate_path": "us_ib_rubrics/high/math-ai.md",
           "payload_digest": "sha256:dce447673e0ca51fc6453c1b36f4fd2a07819ea4cb0f27f7f4d2208713b6b000",
-          "resource": "us_ib-rubrics/high/math-ai.json",
-          "spine_id": "us_ib-rubrics.high.math-ai",
+          "resource": "us_ib_rubrics/high/math-ai.json",
+          "spine_id": "us_ib_rubrics.high.math-ai",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-physics",
-          "doorplate_path": "us_ib-rubrics/high/physics.md",
+          "doorplate_path": "us_ib_rubrics/high/physics.md",
           "payload_digest": "sha256:6196f054b57b2214c1dc6c1826cf28359eb742172b2910e1d0635474346b8273",
-          "resource": "us_ib-rubrics/high/physics.json",
-          "spine_id": "us_ib-rubrics.high.physics",
+          "resource": "us_ib_rubrics/high/physics.json",
+          "spine_id": "us_ib_rubrics.high.physics",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-tok",
-          "doorplate_path": "us_ib-rubrics/high/tok.md",
+          "doorplate_path": "us_ib_rubrics/high/tok.md",
           "payload_digest": "sha256:6334bed79e82912c12474d0d9b414b69d9eb91c587972a4fc7615831561e637f",
-          "resource": "us_ib-rubrics/high/tok.json",
-          "spine_id": "us_ib-rubrics.high.tok",
+          "resource": "us_ib_rubrics/high/tok.json",
+          "spine_id": "us_ib_rubrics.high.tok",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "middle-arts",
-          "doorplate_path": "us_ib-rubrics/middle/arts.md",
+          "doorplate_path": "us_ib_rubrics/middle/arts.md",
           "payload_digest": "sha256:a664893a0c8f3d9f2eb4ee3da0c446deae0587a637273b7de2456e5d75bc73c7",
-          "resource": "us_ib-rubrics/middle/arts.json",
-          "spine_id": "us_ib-rubrics.middle.arts",
+          "resource": "us_ib_rubrics/middle/arts.json",
+          "spine_id": "us_ib_rubrics.middle.arts",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "middle-design",
-          "doorplate_path": "us_ib-rubrics/middle/design.md",
+          "doorplate_path": "us_ib_rubrics/middle/design.md",
           "payload_digest": "sha256:41a7dfde41e7d489ba72e5882ba449c83b8bf2177702cd06b166e20ca9f36bb2",
-          "resource": "us_ib-rubrics/middle/design.json",
-          "spine_id": "us_ib-rubrics.middle.design",
+          "resource": "us_ib_rubrics/middle/design.json",
+          "spine_id": "us_ib_rubrics.middle.design",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "middle-individuals-societies",
-          "doorplate_path": "us_ib-rubrics/middle/individuals-societies.md",
+          "doorplate_path": "us_ib_rubrics/middle/individuals-societies.md",
           "payload_digest": "sha256:e7dbc542ebe2f607674139d8575a2d0edc7227954c5144e9c0fd3df1213ae92e",
-          "resource": "us_ib-rubrics/middle/individuals-societies.json",
-          "spine_id": "us_ib-rubrics.middle.individuals-societies",
+          "resource": "us_ib_rubrics/middle/individuals-societies.json",
+          "spine_id": "us_ib_rubrics.middle.individuals-societies",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "middle-language-acquisition",
-          "doorplate_path": "us_ib-rubrics/middle/language-acquisition.md",
+          "doorplate_path": "us_ib_rubrics/middle/language-acquisition.md",
           "payload_digest": "sha256:f46bedfee6e08d4efe3de8b1362c0c39d2165b8f5bc586ee0f7a6285c1eb7dc3",
-          "resource": "us_ib-rubrics/middle/language-acquisition.json",
-          "spine_id": "us_ib-rubrics.middle.language-acquisition",
+          "resource": "us_ib_rubrics/middle/language-acquisition.json",
+          "spine_id": "us_ib_rubrics.middle.language-acquisition",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "middle-language-literature",
-          "doorplate_path": "us_ib-rubrics/middle/language-literature.md",
+          "doorplate_path": "us_ib_rubrics/middle/language-literature.md",
           "payload_digest": "sha256:277d55a75c8cfe4aa1518cb930e1355e03161278f4fdd53fff71c1a7464cd9d4",
-          "resource": "us_ib-rubrics/middle/language-literature.json",
-          "spine_id": "us_ib-rubrics.middle.language-literature",
+          "resource": "us_ib_rubrics/middle/language-literature.json",
+          "spine_id": "us_ib_rubrics.middle.language-literature",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "middle-mathematics",
-          "doorplate_path": "us_ib-rubrics/middle/mathematics.md",
+          "doorplate_path": "us_ib_rubrics/middle/mathematics.md",
           "payload_digest": "sha256:cac17099cd8cac3fee34fe8a16e6046fa43c087761f078a7d0fc5b0833d73ffc",
-          "resource": "us_ib-rubrics/middle/mathematics.json",
-          "spine_id": "us_ib-rubrics.middle.mathematics",
+          "resource": "us_ib_rubrics/middle/mathematics.json",
+          "spine_id": "us_ib_rubrics.middle.mathematics",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "middle-pe",
-          "doorplate_path": "us_ib-rubrics/middle/pe.md",
+          "doorplate_path": "us_ib_rubrics/middle/pe.md",
           "payload_digest": "sha256:64281395c4df30f50a0333d706ec0b3b2b682a2e25ac6c848316f913d7f8a8f8",
-          "resource": "us_ib-rubrics/middle/pe.json",
-          "spine_id": "us_ib-rubrics.middle.pe",
+          "resource": "us_ib_rubrics/middle/pe.json",
+          "spine_id": "us_ib_rubrics.middle.pe",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "middle-sciences",
-          "doorplate_path": "us_ib-rubrics/middle/sciences.md",
+          "doorplate_path": "us_ib_rubrics/middle/sciences.md",
           "payload_digest": "sha256:4adb8bcf788fc63ae69887e9c046370049c809414a1111e1fd4a8f576b7686e6",
-          "resource": "us_ib-rubrics/middle/sciences.json",
-          "spine_id": "us_ib-rubrics.middle.sciences",
+          "resource": "us_ib_rubrics/middle/sciences.json",
+          "spine_id": "us_ib_rubrics.middle.sciences",
           "type": "Rubric Spine"
         }
       ],
       "relation_kinds": [],
       "scope": "shared_reference",
-      "source_content_digest": "sha256:a56ed010fbd90283869b73d47c211df0aecb30eecf2466ba93f818acd32e5574",
+      "source_content_digest": "sha256:31ce23c378726f0db69c2130b92ff11eea7a1a14758d8fdb72fcc917a10a7096",
       "source_id": "us-ib-rubrics"
     },
     {
       "entries": [
         {
           "doorplate_id": "elementary-ela",
-          "doorplate_path": "us_k12-rubrics/elementary/ela.md",
+          "doorplate_path": "us_k12_rubrics/elementary/ela.md",
           "payload_digest": "sha256:59789841f55626bc7175878a9e2b6b1740ab5423a1453086eca647543e1edd8a",
-          "resource": "us_k12-rubrics/elementary/ela.json",
-          "spine_id": "us_k12-rubrics.elementary.ela",
+          "resource": "us_k12_rubrics/elementary/ela.json",
+          "spine_id": "us_k12_rubrics.elementary.ela",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "elementary-math",
-          "doorplate_path": "us_k12-rubrics/elementary/math.md",
+          "doorplate_path": "us_k12_rubrics/elementary/math.md",
           "payload_digest": "sha256:3382c25a8a4983e51090d484e26b476b499ba617b5212f13d811f939c1647edd",
-          "resource": "us_k12-rubrics/elementary/math.json",
-          "spine_id": "us_k12-rubrics.elementary.math",
+          "resource": "us_k12_rubrics/elementary/math.json",
+          "spine_id": "us_k12_rubrics.elementary.math",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "elementary-science",
-          "doorplate_path": "us_k12-rubrics/elementary/science.md",
+          "doorplate_path": "us_k12_rubrics/elementary/science.md",
           "payload_digest": "sha256:74f3402789c5238ba9fb5a883396e91a5b36a0f37775b557dcfc214b2710df17",
-          "resource": "us_k12-rubrics/elementary/science.json",
-          "spine_id": "us_k12-rubrics.elementary.science",
+          "resource": "us_k12_rubrics/elementary/science.json",
+          "spine_id": "us_k12_rubrics.elementary.science",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "elementary-social-studies",
-          "doorplate_path": "us_k12-rubrics/elementary/social-studies.md",
+          "doorplate_path": "us_k12_rubrics/elementary/social-studies.md",
           "payload_digest": "sha256:1a36595867c31443da438f552be45c86ecc32559bfcb0d4965ab178618c6ef32",
-          "resource": "us_k12-rubrics/elementary/social-studies.json",
-          "spine_id": "us_k12-rubrics.elementary.social-studies",
+          "resource": "us_k12_rubrics/elementary/social-studies.json",
+          "spine_id": "us_k12_rubrics.elementary.social-studies",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-algebra",
-          "doorplate_path": "us_k12-rubrics/high/algebra.md",
+          "doorplate_path": "us_k12_rubrics/high/algebra.md",
           "payload_digest": "sha256:e314b21090e62aef86e9a8caa57229814ecfd9cdc80a3e92175e4a8e01931fc7",
-          "resource": "us_k12-rubrics/high/algebra.json",
-          "spine_id": "us_k12-rubrics.high.algebra",
+          "resource": "us_k12_rubrics/high/algebra.json",
+          "spine_id": "us_k12_rubrics.high.algebra",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-biology",
-          "doorplate_path": "us_k12-rubrics/high/biology.md",
+          "doorplate_path": "us_k12_rubrics/high/biology.md",
           "payload_digest": "sha256:fcbff656b7c34e07380260006bbf1c8bb898b8d86c0ca92297c6734443e510ee",
-          "resource": "us_k12-rubrics/high/biology.json",
-          "spine_id": "us_k12-rubrics.high.biology",
+          "resource": "us_k12_rubrics/high/biology.json",
+          "spine_id": "us_k12_rubrics.high.biology",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-chemistry",
-          "doorplate_path": "us_k12-rubrics/high/chemistry.md",
+          "doorplate_path": "us_k12_rubrics/high/chemistry.md",
           "payload_digest": "sha256:fd0fac9830b19bdc6321df2b681b88bfc9689a062b51b4b3844d639da7402245",
-          "resource": "us_k12-rubrics/high/chemistry.json",
-          "spine_id": "us_k12-rubrics.high.chemistry",
+          "resource": "us_k12_rubrics/high/chemistry.json",
+          "spine_id": "us_k12_rubrics.high.chemistry",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-ela",
-          "doorplate_path": "us_k12-rubrics/high/ela.md",
+          "doorplate_path": "us_k12_rubrics/high/ela.md",
           "payload_digest": "sha256:f0b5618b31f5055039a4a8da4dd2675a6993ff612417857834147255da44c27f",
-          "resource": "us_k12-rubrics/high/ela.json",
-          "spine_id": "us_k12-rubrics.high.ela",
+          "resource": "us_k12_rubrics/high/ela.json",
+          "spine_id": "us_k12_rubrics.high.ela",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-geometry",
-          "doorplate_path": "us_k12-rubrics/high/geometry.md",
+          "doorplate_path": "us_k12_rubrics/high/geometry.md",
           "payload_digest": "sha256:9d1f533e145ecd778fe57ec145cce2c78649141c8136dd74632b518ca8ecde78",
-          "resource": "us_k12-rubrics/high/geometry.json",
-          "spine_id": "us_k12-rubrics.high.geometry",
+          "resource": "us_k12_rubrics/high/geometry.json",
+          "spine_id": "us_k12_rubrics.high.geometry",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-physics",
-          "doorplate_path": "us_k12-rubrics/high/physics.md",
+          "doorplate_path": "us_k12_rubrics/high/physics.md",
           "payload_digest": "sha256:d61ce439f9a244a9f5d9c97ca459bf202ec65d861e5b9083657b3753279736dc",
-          "resource": "us_k12-rubrics/high/physics.json",
-          "spine_id": "us_k12-rubrics.high.physics",
+          "resource": "us_k12_rubrics/high/physics.json",
+          "spine_id": "us_k12_rubrics.high.physics",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-precalc",
-          "doorplate_path": "us_k12-rubrics/high/precalc.md",
+          "doorplate_path": "us_k12_rubrics/high/precalc.md",
           "payload_digest": "sha256:d1b566fa7b1dcb0a545413e7827b3bae4aa2cd0f26e8bc29becdf534dd6bff87",
-          "resource": "us_k12-rubrics/high/precalc.json",
-          "spine_id": "us_k12-rubrics.high.precalc",
+          "resource": "us_k12_rubrics/high/precalc.json",
+          "spine_id": "us_k12_rubrics.high.precalc",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-us-history",
-          "doorplate_path": "us_k12-rubrics/high/us-history.md",
+          "doorplate_path": "us_k12_rubrics/high/us-history.md",
           "payload_digest": "sha256:c8d52d3602bdb2e119091df0d6cd781d563a5f586447cb861e16ef8a88cec6cd",
-          "resource": "us_k12-rubrics/high/us-history.json",
-          "spine_id": "us_k12-rubrics.high.us-history",
+          "resource": "us_k12_rubrics/high/us-history.json",
+          "spine_id": "us_k12_rubrics.high.us-history",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "high-world-history",
-          "doorplate_path": "us_k12-rubrics/high/world-history.md",
+          "doorplate_path": "us_k12_rubrics/high/world-history.md",
           "payload_digest": "sha256:258d412ba9e4145762ec3ffcb677feead9176c01bf43c7a7e988c2d65118b65c",
-          "resource": "us_k12-rubrics/high/world-history.json",
-          "spine_id": "us_k12-rubrics.high.world-history",
+          "resource": "us_k12_rubrics/high/world-history.json",
+          "spine_id": "us_k12_rubrics.high.world-history",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "middle-ela",
-          "doorplate_path": "us_k12-rubrics/middle/ela.md",
+          "doorplate_path": "us_k12_rubrics/middle/ela.md",
           "payload_digest": "sha256:ae953308e7831a13c208c95b0b47f2b0257828d9131bd09f6f8219d9df4ab79e",
-          "resource": "us_k12-rubrics/middle/ela.json",
-          "spine_id": "us_k12-rubrics.middle.ela",
+          "resource": "us_k12_rubrics/middle/ela.json",
+          "spine_id": "us_k12_rubrics.middle.ela",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "middle-math",
-          "doorplate_path": "us_k12-rubrics/middle/math.md",
+          "doorplate_path": "us_k12_rubrics/middle/math.md",
           "payload_digest": "sha256:f61f01cec97e0fcc79d273e2d717bd0221a455393aef7cf6c76b118810f39003",
-          "resource": "us_k12-rubrics/middle/math.json",
-          "spine_id": "us_k12-rubrics.middle.math",
+          "resource": "us_k12_rubrics/middle/math.json",
+          "spine_id": "us_k12_rubrics.middle.math",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "middle-science",
-          "doorplate_path": "us_k12-rubrics/middle/science.md",
+          "doorplate_path": "us_k12_rubrics/middle/science.md",
           "payload_digest": "sha256:503cda7e93f9e1576979bfb34f13f3d5e49aa3003ea7f9accafec51b6ef9ba1f",
-          "resource": "us_k12-rubrics/middle/science.json",
-          "spine_id": "us_k12-rubrics.middle.science",
+          "resource": "us_k12_rubrics/middle/science.json",
+          "spine_id": "us_k12_rubrics.middle.science",
           "type": "Rubric Spine"
         },
         {
           "doorplate_id": "middle-social-studies",
-          "doorplate_path": "us_k12-rubrics/middle/social-studies.md",
+          "doorplate_path": "us_k12_rubrics/middle/social-studies.md",
           "payload_digest": "sha256:cfdfc7991127ddb0efe9597cac6f59107fc6b98999e453d703ccafed0328258a",
-          "resource": "us_k12-rubrics/middle/social-studies.json",
-          "spine_id": "us_k12-rubrics.middle.social-studies",
+          "resource": "us_k12_rubrics/middle/social-studies.json",
+          "spine_id": "us_k12_rubrics.middle.social-studies",
           "type": "Rubric Spine"
         }
       ],
       "relation_kinds": [],
       "scope": "shared_reference",
-      "source_content_digest": "sha256:596bfed2a733529b743c6503f4cad87f2f5b76faae75d6cf5fbe5d51090c8067",
+      "source_content_digest": "sha256:cd1726d020392c0e0029c088d439462ffd522bea2958454cdf7ebe48621b8ca7",
       "source_id": "us-k12-rubrics"
     }
   ],
